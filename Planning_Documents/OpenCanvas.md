@@ -22,7 +22,7 @@
   * Resources attached to this could be email templates.
   * Awesome looking flyers and stickers.
   * Remixable workshop content.
-* Provide navigation information for alternative ways of advancement.  Sit down with David Lewis and other leaders for informational interviews on this top.
+* Provide navigation information for alternative ways of advancement.  Sit down with David Lewis and other leaders for informational interviews on this topic.
     
 ### Key Metrics
 * We have two meaurement needs:
