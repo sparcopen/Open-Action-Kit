@@ -30,3 +30,7 @@
   * The efficacy of our program to provide leadership opportunities for ECLs.
     * Here, we would be trying to measure recognition, career progress, etc. 
   
+### Group Strengths
+
+* Peers of people you want to support
+* ECL community calls have strong attendance
