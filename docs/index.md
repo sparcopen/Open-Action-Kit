@@ -21,7 +21,7 @@ Never fear, the Early Career Librarian Open Access Project is here! We’ve comp
 * Getting to the finish line and connecting with other OA champions
 * Telling the story of your efforts and successes
 
-We recognize that actions and resources are going to look different to everyone. This is why our resources will speak to ideas and goals across the spectrum of experience, whether you’re a New Natalia, Growing Gene, or Connected Cate. We’ve got a little something for everyone, so don’t you worry. 
+We recognize that actions and resources are going to look different to everyone. This is why our resources will speak to ideas and goals across the spectrum of experience, whether you’re a **New Natalia, Growing Gene, or Connected Cate.** We’ve got a little something for everyone, so don’t you worry. 
 
 ### So make sure you check this space in August. We’re going to get those creative juices flowing by introducing some different ways you can mobilize action and maximize engagement on your campus. 
 
