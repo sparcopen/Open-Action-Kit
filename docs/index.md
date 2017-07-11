@@ -2,7 +2,7 @@
 
 ### No, that’s not a typo. Instead of filling in the blanks and telling you what Open facilitates, we’re interested in hearing about all the ways that Open makes things possible. Does Open increase impact? Ensure equity? Change the world?
 
-We want to challenge you to demonstrate all the ways that Open is making a difference. This is precisely why we’re encouraging folks who are inspired to participate on OA Week to focus their action on forms of engagement that demonstrate the tangible, practical things that Open accomplishes. There are many forms this could take, including (but certainly not limited to) do-a-thons or social media campaigns. 
+We want to challenge you to demonstrate all the ways that Open is making a difference. This is precisely why we’re encouraging folks who are inspired to participate on OA Week to focus their action on forms of engagement that **demonstrate the tangible, practical things that Open accomplishes.** There are many forms this could take, including (but certainly not limited to) do-a-thons or social media campaigns. 
 
 ### What are these things anyway? Glad you asked. 
 
