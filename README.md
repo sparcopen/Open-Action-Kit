@@ -1,4 +1,4 @@
-This year’s theme for Open Access Week is “Open in Order to…” 
+## This year’s theme for Open Access Week is “Open in Order to…” 
 
 ### No, that’s not a typo. Instead of filling in the blanks and telling you what Open facilitates, we’re interested in hearing about all the ways that Open makes things possible. Does Open increase impact? Ensure equity? Change the world?
 
