@@ -12,13 +12,14 @@ A **do-a-thon** is, well, basically exactly what it sounds like. It’s an event
 
 ### Does the prospect of a do-a-thon, social media campaign, or organizing anything for OA Week fill you with a deep seated terror? Or even a low lying anxiety? 
 
-Never fear, the Early Career Librarian Open Access Project is here! We’ve compiled a bunch of resources and tools to help everyone from novices to veterans. The ECLOA project is here to help you get inspired, connect with each other, make a plan, run a successful action, and tell the story of your success. Sound good? We thought so too.
+Never fear, the Early Career Librarian Open Access Project is here! We’ve compiled a bunch of resources and tools to help everyone, from novices to veterans. The ECLOA project is here to help you **get inspired, connect with each other, make a plan, run a successful action, and tell the story of your success.** Sound good? We thought so too.
 
-The toolkit will include monthly communications and resources that address some of the following themes:
-Exploring and choosing your action
-Crafting your message and inspiring engagement
-Getting to the finish line and connecting with other OA champions
-Telling the story of your efforts and successes
+### The toolkit will include monthly communications and resources that address some of the following themes:
+
+* Exploring and choosing your action
+* Crafting your message and inspiring engagement
+* Getting to the finish line and connecting with other OA champions
+* Telling the story of your efforts and successes
 
 We recognize that actions and resources are going to look different to everyone. This is why our resources will speak to ideas and goals across the spectrum of experience, whether you’re a New Natalia, Growing Gene, or Connected Cate. We’ve got a little something for everyone, so don’t you worry. 
 
