@@ -25,5 +25,5 @@ We recognize that actions and resources are going to look different to everyone.
 
 ### So make sure you check this space in August. We’re going to get those creative juices flowing by introducing some different ways you can mobilize action and maximize engagement on your campus. 
 
-Let us know if you have any questions, comments, suggested resources, stories, good jokes, etc. **We wanna hear about all the cool stuff we know you’ve been up to (either currently or previously), so shrug off that modesty and hype yo self!** Share your comments, questions, and stories of success with ____
+Let us know if you have any questions, comments, suggested resources, stories, good jokes, etc. **We wanna hear about all the cool stuff we know you’ve been up to (either currently or previously), so shrug off that modesty and hype yo self!**  Share your comments, questions, and stories of success with ____
 
