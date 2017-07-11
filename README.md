@@ -1,3 +1,1 @@
-# ECL-OAWeek
-
-Welcome to the ECL-OAweek project, we're going to get busy here real soon. Sit tight. 
+# ECL-OAWeek:  Checking how it interacts with out site
