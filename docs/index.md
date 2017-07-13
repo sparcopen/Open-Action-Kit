@@ -6,7 +6,7 @@ We want to challenge you to demonstrate all the ways that Open is making a diffe
 
 ### What are these things anyway? Glad you asked. 
 
-A **do-a-thon** is, well, basically exactly what it sounds like. It’s an event that’s focused on organizing a group or community to takeing action, whether that’s doing or creating something. Think hack-a-thon, but more inclusive. No need to focus on technology here -- glue, paper, and whiteboards will do. Do-a-thons can be as small or large as you want them to be, so long as they keep in the spirit of getting stuff done. 
+A **do-a-thon** is, well, basically exactly what it sounds like. It’s an event that’s focused on organizing a group or community to take action, whether that’s doing or creating something. Think hack-a-thon, but more inclusive. No need to focus on technology here -- glue, paper, and whiteboards will do. Do-a-thons can be as small or large as you want them to be, so long as they keep in the spirit of getting stuff done. 
 
 **Social media campaigns** are a little different. They consist of sharing deliberate messaging across a social media outlet (Twitter, Facebook, Snapchat) for a sustained period of time. Benefits of social media campaigns include raising awareness, increasing engagement across your communities, and maybe getting a few new followers.
 
