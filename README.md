@@ -1,3 +1,6 @@
+## [Project Website](https://sparcopen.github.io/OA-Week-Toolkit/)
+## [Google Drive](https://drive.google.com/drive/folders/0B3LrgRFGBovxbmVWM0dyN1pmd0k)
+
 ## This year’s theme for Open Access Week is “Open in Order to…” 
 
 ### No, that’s not a typo. Instead of filling in the blanks and telling you what Open facilitates, we’re interested in hearing about all the ways that Open makes things possible. Does Open increase impact? Ensure equity? Change the world?
