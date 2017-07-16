@@ -1,4 +1,4 @@
-## [Project Website](https://sparcopen.github.io/OA-Week-Toolkit/)
+## [Project Website](https://sparcopen.github.io/Open-Action-Kit/)
 ## [Google Drive](https://drive.google.com/drive/folders/0B3LrgRFGBovxbmVWM0dyN1pmd0k)
 ## [Meeting Notes Archive](https://github.com/sparcopen/OA-Week-Toolkit/tree/master/meeting_notes)
 
