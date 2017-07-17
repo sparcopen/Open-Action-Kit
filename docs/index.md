@@ -27,7 +27,7 @@ We recognize that actions and resources are going to look different to everyone.
 
 Let us know if you have any questions, comments, suggested resources, stories, good jokes, etc. **We wanna hear about all the cool stuff we know you’ve been up to (either currently or previously), so shrug off that modesty and hype yo self!** Share your comments, questions, and stories of success with us by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdDKxixKSASG6ByPRuySKk0dzEGstgR1fSSYhoHTEu2VSztXw/viewform?usp=sf_link).
 
-## Meet the Open Action Kit Organizing Team
+### [Meet the Open Action Kit Organizing Team](https://sparcopen.github.io/Open-Action-Kit/team)
 
 
 
