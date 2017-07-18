@@ -1,5 +1,10 @@
 ## The Open Action Kit Organizing Team
 
+### Chealsye Bowley
+Community Manager, Ubiquity Press  
+chealsye.bowley@ubiquitypress.com  
+Twitter: [@chealsye](https://twitter.com/chealsye?lang=en)
+
 ### Robin Champieux
 Scholarly Communication Librarian, Oregon Health & Science University  
 champieu@ohsu.edu  
