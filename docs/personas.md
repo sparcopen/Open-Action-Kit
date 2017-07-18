@@ -14,7 +14,7 @@ Amal had a successful Open Access Week last year. Last year her library did a mi
 
 **Goals**: Get faculty to attend an Open Access Week event at the library, be able to demonstrate new interest in the institutional repository as a result of Open Access Week advocacy  
 **Needs**: Materials, ideas, help/collaboration  
-**Experience**: Medium
+**Experience**: Medium  
 **Institutional Environment**: Supportive library, university community is interested in Open Access
 
 ### Growing Gene
@@ -22,7 +22,7 @@ Gene is a librarian in a well-developed scholarly communication department at a 
 
 **Goals**: Have an impactful, well attended series of Open Access events, build momentum to last throughout the year.  
 **Needs**: Ideas for engaging students with OA Week, ideas for how to communicate event with library administrators  
-**Experience**: High
+**Experience**: High  
 **Institutional Environment**: R1 university, interest in Open Access, strong support from the library
 
 ### Connected Cate
