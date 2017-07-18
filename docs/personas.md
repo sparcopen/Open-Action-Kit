@@ -10,7 +10,7 @@ Natalia is a librarian new to open advocacy, but is excited to celebrate Open Ac
 **Institutional Environment**: Medium sized institution that isn’t research intensive. There is some awareness of Open Access.
 
 ### Amped Up Amal
-Amal had a successful Open Access Week last year. Last year her library did a mini campaign by sending faculty postcards about Open Access Week and the institutional repository, and hosted a screening of The Internet’s Own Boy. She was thrilled at the success of last year, and wants to grow her library’s Open Access Week events this year! She will primarily be organizing the week alone, but would like to involve her colleagues in planning. 
+Amal had a successful Open Access Week last year. Her library did a mini campaign by sending faculty postcards about Open Access Week and the institutional repository, and hosted a screening of The Internet’s Own Boy. She was thrilled at the success, and wants to grow her library’s Open Access Week events this year! She will primarily be organizing the week alone, but would like to involve her colleagues in planning. 
 
 **Goals**: Get faculty to attend an Open Access Week event at the library, be able to demonstrate new interest in the institutional repository as a result of Open Access Week advocacy  
 **Needs**: Materials, ideas, help/collaboration  
