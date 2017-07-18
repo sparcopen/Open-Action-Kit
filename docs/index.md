@@ -12,7 +12,7 @@ A **do-a-thon** is an event that’s focused on a specific task -- organizing a 
 
 ### Does the prospect of a do-a-thon, social media campaign, or organizing anything for OA Week fill you with a deep seated terror? Or even a low lying anxiety? 
 
-Never fear, the Open Action Kit is here! We’ve compiled a bunch of resources and tools to help everyone from novices to veterans. This project is here to help you **get inspired, connect with each other, make a plan, run a successful action, and tell the story of your success.** Sound good? We thought so too!
+Never fear, the **Open Action Kit** is here! We’ve compiled a bunch of resources and tools to help everyone from novices to veterans. This project is here to help you **get inspired, connect with each other, make a plan, run a successful action, and tell the story of your success.** Sound good? We thought so too!
 
 ### The toolkit will include monthly communications and resources that address some of the following themes:
 
