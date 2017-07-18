@@ -1,12 +1,12 @@
-## Open Action Kit Design Personas
+## Open Action Kit: Design Personas
 
 
 ### New Natalia
 Natalia is a librarian new to open advocacy, but is excited to celebrate Open Access Week for the first time at her university. She will be organizing outreach and events primarily alone. 
 
-**Goals**: Raise awareness about Open Access and her new position
-**Needs**: Materials and ideas 
-**Experience**: Low
+**Goals**: Raise awareness about Open Access and her new position  
+**Needs**: Materials and ideas   
+**Experience**: Low  
 **Institutional Environment**: Medium sized institution that isn’t research intensive. There is some awareness of Open Access.
 
 Amped Up Amal
