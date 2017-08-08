@@ -17,6 +17,10 @@ Timeline Infographic | Planning Docs | Camille | 8/4/17 |
 
 
 * = suggested team member
+[] Yes
+[ ] Yes
+* [ ] Yes
+* [] Yes
 August folder (which contains instructions):  https://drive.google.com/open?id=0B2KQ9IHcPVlfR1UyaHJ2X21qZmc
 
 
