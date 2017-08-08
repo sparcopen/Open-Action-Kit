@@ -1,5 +1,6 @@
-| Task    | Deliverable    | Contributor    | Due Date
---- | --- | --- | ---
+| Task    | Deliverable    | Contributor    | Due Date | Release Date
+--- | --- | --- | --- | ---
+Compile existing resources into a cheat sheet | Cheat Sheet, Quiz | Robin, Ali | 8/11/17 | 
 
 
 
