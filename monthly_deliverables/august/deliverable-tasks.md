@@ -1,5 +1,5 @@
 | Task    | Deliverable    | Contributor    | Due Date | Complete | Release Date
---- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 Compile existing resources into a cheat sheet | Cheat Sheet, Quiz | Robin, Ali | 8/11/17 | []Yes
 Create instructions for how to fill out Environmental Mapping Worksheet | E Map Worksheet | Emma | 8/4/17 | 
 Create script or template for “Show and Tell” | Blog posts | Chealsye | 8/18/17
