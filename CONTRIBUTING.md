@@ -2,7 +2,7 @@
 
 :cat::tada: First off, thanks for taking the time to contribute!  The Open Action Kit is a community driven project and we want to know about your experience, ideas for advancing openness, and the resources you're using in your work!:fireworks:
 
-The following is a set of guidelines for contributing to the Open Action Kit. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request or issue.
+The following is a set of guidelines for contributing to the Open Action Kit. These are guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a issue or pull request.
 
 ## Table Of Contents
 
