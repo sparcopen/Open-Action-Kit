@@ -1,6 +1,6 @@
-# Contributing to Atom
+# Contributing to the Open Action Kit
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+:+1::tada: First off, thanks for taking the time to contribute!  The Open Action Kit is a community driven project and we want to know about your experience, ideas for advancing openness, and the resources you're using in your work!:tada::+1:
 
 The following is a set of guidelines for contributing to Atom and its packages, which are hosted in the [Atom Organization](https://github.com/atom) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
