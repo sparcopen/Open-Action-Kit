@@ -32,20 +32,7 @@ This project and everyone participating in it is governed by the [OpenCon Code o
 
 ## I don't want to read this whole thing I just have a question!!!
 
-[You can email anyone on the Open Action Kit team with your question](https://sparcopen.github.io/Open-Action-Kit/team) or submitt an issue and we'll get back to you as soon as possible. 
-
-* [Discuss, the official Atom and Electron message board](https://discuss.atom.io)
-* [Atom FAQ](https://discuss.atom.io/c/faq)
-
-If chat is more your speed, you can join the Atom and Electron Slack team:
-
-* [Join the Atom and Electron Slack Team](http://atom-slack.herokuapp.com/)
-    * Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
-    * Use the `#atom` channel for general questions or discussion about Atom
-    * Use the `#electron` channel for questions about Electron
-    * Use the `#packages` channel for questions or discussion about writing or contributing to Atom packages (both core and community)
-    * Use the `#ui` channel for questions and discussion about Atom UI and themes
-    * There are many other channels available, check the channel list
+[You can email anyone on the Open Action Kit team with your question](https://sparcopen.github.io/Open-Action-Kit/team) or [submitt an issue](https://github.com/sparcopen/Open-Action-Kit/issues/new).  Either way, we'll get back to you as soon as possible. :whale::pizza::soon: 
 
 ## How Can I Contribute?
 
