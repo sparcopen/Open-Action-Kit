@@ -7,14 +7,11 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 ## Table Of Contents
 
 #### [Code of Content](#code-of-conduct)
-
 #### [I don't want to read this whole thing, I just have a question!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-
 #### [How Can I Contribute?](#how-can-i-contribute)
    * [Issues](#issues)
    * [Pull Requests](#pull-requests)
    * [Feedback Form](#feedback-form)
-
 #### [Relax You Got This](#relax-you-got-this)
 
 ## Code of Conduct
