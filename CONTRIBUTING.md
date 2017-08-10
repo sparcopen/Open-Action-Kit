@@ -33,7 +33,7 @@ The Open Action Toolkit includes monthly communications and resources for advanc
 
 **We want to know about your ideas, work, and go-to resources for advancing openness.**  Are you planning something awesome for Open Access Week 2017?  What cool stuff have you created that others can use?  Can you point us to useful models, guides, lists, or outreach materials that other people have created?  Let us know, and we'll highlight them in the Open Action Kit's monthly communication and resources.  
 
-* **Issues**
+#### Issues
 
 Issues are a great way to for you to communicate ideas. They’re kind of like email for Github.:rainbow::envelope:
 
@@ -41,7 +41,7 @@ Issues are a great way to for you to communicate ideas. They’re kind of like e
   *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view its details and comment*
 * Or, open a new issue, add a descriptive title, and leave a comment with the details you'd like to share.
 
-* **Pull Requests**
+#### Pull Requests
 
 Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Open Action Kit are totally welcome! :heart_eyes:  Here are a few tips for faciliating the Pull Request (PR) process:
 
@@ -51,7 +51,7 @@ Are you pretty confortable working in Github or just want to learn?  That's awes
 
 New to working in Github?  No worries, [this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) provides a nice overview of contributing to open projects on Github.  Also, **don't worry - you can't break anything**, so feel free to experiment! :sparkles:
 
-* **Feedback From**
+#### Feedback Form
 
 Finally, you can also use [this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1) share your ideas and receive updates about the project.  
 
