@@ -36,14 +36,14 @@ The Open Action Toolkit includes monthly communications and resources for advanc
 * Getting to the finish line and connecting with other OA champions
 * Telling the story of your efforts and successes
 
-We want to know about your ideas, work, and go-to resources for advancing openness.  Are you planning something awesome for Open Access Week 2017?  What cool stuff have you created that others can use?  Can you point us to useful models, guides, lists, or outreach materials that other people have created?  Let us know, and we'll highlight them in the Open Action Kit's monthly communication and resources.  
+**We want to know about your ideas, work, and go-to resources for advancing openness.**  Are you planning something awesome for Open Access Week 2017?  What cool stuff have you created that others can use?  Can you point us to useful models, guides, lists, or outreach materials that other people have created?  Let us know, and we'll highlight them in the Open Action Kit's monthly communication and resources.  
 
 ### Issues
 
 Issues are a great way to for you to communicate ideas. They’re kind of like email for Github.:rainbow::envelope:
 
-* To view or create an issue, [click on the Issues tab](https://github.com/sparcopen/Open-Action-Kit/issues) at the top of the repository.  
-  *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view it's details and comment*
+* To view or create an issue, [click on the **Issues** tab](https://github.com/sparcopen/Open-Action-Kit/issues) at the top of the repository.  
+  *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view its details and comment*
 * Or, open a new issue, add a descriptive title, and leave a comment with the details you'd like to share.
 
 ### Pull Request
