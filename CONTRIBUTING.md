@@ -20,7 +20,7 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 [Additional Notes](#additional-notes)
   * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
   
-### [Relax, You've Got This](#relax-you've-got-this)
+#### [Relax, You've Got This](#relax-,-you've-got-this)
 
 ## Code of Conduct
 
