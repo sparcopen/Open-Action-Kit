@@ -59,10 +59,6 @@ Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
-## General Best Practices
-
-stuff here
-
 ## Relax You Got This
 
 stuff here
