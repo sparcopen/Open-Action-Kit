@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 #### [How Can I Contribute?](#how-can-i-contribute)
    * [Issues](#issues)
    * [Pull Requests](#pull-requests)
-   * [Feedback Form] (#feedback-form)
+   * [Feedback Form](#feedback-form)
 
 [Styleguides](#styleguides)
   * [Git Commit Messages](#git-commit-messages)
