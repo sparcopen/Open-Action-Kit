@@ -48,10 +48,14 @@ Issues are a great way to for you to communicate ideas. They’re kind of like e
 
 ### Pull Request
 
-* **Check the [debugging guide](http://flight-manual.atom.io/hacking-atom/sections/debugging/).** You might be able to find the cause of the problem and fix things yourself. Most importantly, check if you can reproduce the problem [in the latest version of Atom](http://flight-manual.atom.io/hacking-atom/sections/debugging/#update-to-the-latest-version), if the problem happens when you run Atom in [safe mode](http://flight-manual.atom.io/hacking-atom/sections/debugging/#check-if-the-problem-shows-up-in-safe-mode), and if you can get the desired behavior by changing [Atom's or packages' config settings](http://flight-manual.atom.io/hacking-atom/sections/debugging/#check-atom-and-package-settings).
-* **Check the [FAQs on the forum](https://discuss.atom.io/c/faq)** for a list of common questions and problems.
-* **Determine [which repository the problem should be reported in](#atom-and-packages)**.
-* **Perform a [cursory search](https://github.com/issues?q=+is%3Aissue+user%3Aatom)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Open Action Kit are totally welcome!  Here are a few tips for faciliating the Pull Reqest process:
+
+* Make your changes compact, which will allow us to review and merge your contribuitons more quickly.
+* Use a descriptive title.
+* Add some comments to contextualize your contribution.  
+
+New to working in Github?  No worries, [this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) provides a nice overview of contributing to open projects on Github.  Also, **don't worry - you can't break anything**, so feel free to experiment!
+
 
 ### Feedback From
 
