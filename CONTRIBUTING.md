@@ -6,11 +6,11 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 
 ## Table Of Contents
 
-### Code of Content ##link will be added, forking from other Sparc repos. 
+#### [Code of Content](#code-of-conduct)
 
-### [I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+#### [I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
 
-### [How Can I Contribute?](#how-can-i-contribute)
+#### [How Can I Contribute?](#how-can-i-contribute)
   * [Sharing ideas, resources, and experience](#suggesting-enhancements)
    * [Issues](#your-first-code-contribution)
    * [Pull Requests](#pull-requests)
