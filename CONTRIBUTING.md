@@ -52,7 +52,7 @@ New to working in Github?  No worries, [this guide](https://opensource.guide/how
 
 #### :star: Feedback Form
 
-Finally, you can also use [this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1) share your ideas and receive updates about the project.  
+Finally, you can also use **[this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1)** share your ideas and receive updates about the project.  
 
 ## Relax You Got This
 
