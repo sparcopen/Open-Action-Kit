@@ -32,9 +32,7 @@ This project and everyone participating in it is governed by the [OpenCon Code o
 
 ## I don't want to read this whole thing I just have a question!!!
 
-> **Note:** [Please don't file an issue to ask a question.](http://blog.atom.io/2016/04/19/managing-the-deluge-of-atom-issues.html) You'll get faster results by using the resources below.
-
-We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
+[You can email anyone on the Open Action Kit team with your question](https://sparcopen.github.io/Open-Action-Kit/team) or submitt an issue and we'll get back to you as soon as possible. 
 
 * [Discuss, the official Atom and Electron message board](https://discuss.atom.io)
 * [Atom FAQ](https://discuss.atom.io/c/faq)
