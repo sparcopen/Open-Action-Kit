@@ -58,9 +58,7 @@ New to working in Github?  No worries, [this guide](https://opensource.guide/how
 
 ### Feedback From
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](#atom-and-packages) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](ISSUE_TEMPLATE.md).
-
-Explain the problem and include additional details to help maintainers reproduce the problem:
+Finally, you can also use [this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1) share your ideas and receive updates about the project.  
 
 ## Relax You Got This
 
