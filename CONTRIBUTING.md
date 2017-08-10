@@ -17,9 +17,6 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 
 #### [General Best Practices](#general-best-practices)
 
-[Additional Notes](#additional-notes)
-  * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
-  
 #### [Relax, You've Got This](#relax-,-you've-got-this)
 
 ## Code of Conduct
@@ -62,6 +59,6 @@ Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
-### General Best Practices
+## General Best Practices
 
-### Relax, You've Got This
+## Relax, You've Got This
