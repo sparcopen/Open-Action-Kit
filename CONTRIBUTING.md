@@ -54,6 +54,6 @@ New to working in Github?  No worries, **[this guide](https://opensource.guide/h
 
 Finally, you can also use **[this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1)** share your ideas and receive updates about the project.  
 
-## Relax You Got This
+## Relax, You Got This
 
 There's really no wrong way to share, so dive in and contribute. We can't wait to celebrate the cool stuff you're doing for open.  Thank you for taking the time to contribute! :octopus::balloon::tada:
