@@ -46,9 +46,9 @@ Issues are a great way to for you to communicate ideas. They’re kind of like e
   *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view its details and comment*
 * Or, open a new issue, add a descriptive title, and leave a comment with the details you'd like to share.
 
-### Pull Request
+### Pull Requests
 
-Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Open Action Kit are totally welcome!  Here are a few tips for faciliating the Pull Reqest process:
+Are you pretty confortable working in Github or just want to learn?  That's awesome, direct contributions to the Open Action Kit are totally welcome! :heart_eyes:  Here are a few tips for faciliating the Pull Reqest process:
 
 * Make your changes compact, which will allow us to review and merge your contribuitons more quickly.
 * Use a descriptive title.
