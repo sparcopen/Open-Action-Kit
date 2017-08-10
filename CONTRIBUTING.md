@@ -40,9 +40,10 @@ We want to know about your ideas, work, and go-to resources for advancing openne
 
 ### Issues
 
-Issues are a great way to for you to communicate ideas. They’re kind of like email for Github.:rainbow::envelope://
+Issues are a great way to for you to communicate ideas. They’re kind of like email for Github.:rainbow::envelope:
+
 * To view or create an issue, [click on the Issues tab](https://github.com/sparcopen/Open-Action-Kit/issues) at the top of the repository.  
-* Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view it's details and comment*
+  *  Browse the open issues.  If there's an exisitng issue that is related to your idea, feel free to add a comment. *Hint:  Click on the Issue title to view it's details and comment*
 * Or, open a new issue, add a descriptive title, and leave a comment with the details you'd like to share.
 
 ### Pull Request
