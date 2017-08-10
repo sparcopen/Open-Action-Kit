@@ -2,11 +2,11 @@
 
 :cat::tada: First off, thanks for taking the time to contribute!  The Open Action Kit is a community driven project and we want to know about your experience, ideas for advancing openness, and the resources you're using in your work!:fireworks:
 
-The following is a set of guidelines for contributing to Atom and its packages, which are hosted in the [Atom Organization](https://github.com/atom) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to the Open Action Kit. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request or issue.
 
 #### Table Of Contents
 
-[Code of Conduct](#code-of-conduct)
+Code of Content ##link will be added, forking from other Sparc repos. 
 
 [I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
 
