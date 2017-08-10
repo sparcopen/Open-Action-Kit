@@ -54,8 +54,7 @@ Are you pretty confortable working in Github or just want to learn?  That's awes
 * Use a descriptive title.
 * Add some comments to contextualize your contribution.  
 
-New to working in Github?  No worries, [this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) provides a nice overview of contributing to open projects on Github.  Also, **don't worry - you can't break anything**, so feel free to experiment! :sparlkes:
-
+New to working in Github?  No worries, [this guide](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) provides a nice overview of contributing to open projects on Github.  Also, **don't worry - you can't break anything**, so feel free to experiment! :sparkles:
 
 ### Feedback From
 
