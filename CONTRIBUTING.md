@@ -15,8 +15,6 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
    * [Pull Requests](#pull-requests)
    * [Feedback Form](#feedback-form)
 
-#### [General Best Practices](#general-best-practices)
-
 #### [Relax You Got This](#relax-you-got-this)
 
 ## Code of Conduct
@@ -62,4 +60,4 @@ Finally, you can also use [this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ
 
 ## Relax You Got This
 
-stuff here
+There's really no wrong way to share, so dive in and contribute. We can't wait to celebrate the cool stuff you're doing for open.  Thank you for taking the time to contribute! :octopus::balloon::tada:
