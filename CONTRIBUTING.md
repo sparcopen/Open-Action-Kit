@@ -28,7 +28,7 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Atom Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
+This project and everyone participating in it is governed by the [OpenCon Code of Conduct](https://github.com/sparcopen/opencon/blob/master/CODE_OF_CONDUCT.MD). By participating, you are expected to uphold this code.  
 
 ## I don't want to read this whole thing I just have a question!!!
 
