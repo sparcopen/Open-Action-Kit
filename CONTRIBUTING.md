@@ -17,7 +17,7 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 
 #### [General Best Practices](#general-best-practices)
 
-#### [Relax, You've Got This](#relax-,-you've-got-this)
+#### [Relax You Got This](#relax-you-got-this)
 
 ## Code of Conduct
 
@@ -61,4 +61,8 @@ Explain the problem and include additional details to help maintainers reproduce
 
 ## General Best Practices
 
-## Relax, You've Got This
+stuff here
+
+## Relax You Got This
+
+stuff here
