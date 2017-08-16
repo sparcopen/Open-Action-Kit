@@ -29,4 +29,4 @@ Let us know if you have any questions, comments, suggested resources, stories, g
 
 --------------------
 
-The **Open Action Kit** is supported by
+The **Open Action Kit** is supported by  ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/tiny_sparc.png?raw=true)
