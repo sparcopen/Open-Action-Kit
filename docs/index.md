@@ -1,6 +1,6 @@
 ## This year’s theme for Open Access Week is “Open in Order to…”
 
-The Open Action Kit is supported by ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/sparc.png)
+The Open Action Kit is supported by ![SPARC logo](https://raw.githubusercontent.com/sparcopen/Open-Action-Kit/master/docs/_images/sparc.png)
 
 ### No, that’s not a typo. Instead of filling in the blanks and telling you what Open facilitates, we’re interested in hearing about all the ways that Open makes things possible. Does Open increase impact? Ensure equity? Change the world?
 
