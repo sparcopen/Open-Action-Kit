@@ -27,4 +27,4 @@ We recognize that actions and resources are going to look different to everyone.
 Let us know if you have any questions, comments, suggested resources, stories, good jokes, etc. **We wanna hear about all the cool stuff we know you’ve been up to (either currently or previously), so shrug off that modesty and hype yo self!** Share your comments, questions, and stories of success with us by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdDKxixKSASG6ByPRuySKk0dzEGstgR1fSSYhoHTEu2VSztXw/viewform?usp=sf_link).
 
 
-The Open Action Kit is supported by  ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/sparc.small.png?raw=true)
+The **Open Action Kit** is supported by  ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/sparc.small.png?raw=true)
