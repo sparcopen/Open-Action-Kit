@@ -1,5 +1,7 @@
 ## This year’s theme for Open Access Week is “Open in Order to…”
 
+The Open Action Kit is supported by ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/sparc.png)
+
 ### No, that’s not a typo. Instead of filling in the blanks and telling you what Open facilitates, we’re interested in hearing about all the ways that Open makes things possible. Does Open increase impact? Ensure equity? Change the world?
 
 We want to challenge you to demonstrate all the ways that Open is making a difference. This OA Week, let’s focus on engagement and actions that **demonstrate the tangible, practical things that Open accomplishes.** There are many forms this could take, including (but certainly not limited to) do-a-thons or social media campaigns.
@@ -26,5 +28,3 @@ We recognize that actions and resources are going to look different to everyone.
 ### So make sure you check this space in August. We’re going to get those creative juices flowing by introducing some different ways you can mobilize action and maximize engagement on your campus.
 
 Let us know if you have any questions, comments, suggested resources, stories, good jokes, etc. **We wanna hear about all the cool stuff we know you’ve been up to (either currently or previously), so shrug off that modesty and hype yo self!** Share your comments, questions, and stories of success with us by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdDKxixKSASG6ByPRuySKk0dzEGstgR1fSSYhoHTEu2VSztXw/viewform?usp=sf_link).
-
-The Open Action Kit is supported by ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/sparc.png)
