@@ -1,9 +1,7 @@
 ## This year’s theme for Open Access Week is “Open in Order to…”
 ### No, that’s not a typo. Instead of filling in the blanks and telling you what Open facilitates, we’re interested in hearing about all the ways that Open makes things possible. Does Open increase impact? Ensure equity? Change the world?
 We want to challenge you to demonstrate all the ways that Open is making a difference. This OA Week, let’s focus on engagement and actions that **demonstrate the tangible, practical things that Open accomplishes.** There are many forms this could take, including (but certainly not limited to) do-a-thons or social media campaigns.
-
 ### What are these things anyway? Glad you asked.
-
 A **do-a-thon** is an event that’s focused on a specific task -- organizing a group or community to take action, whether that’s doing or creating something. Think hack-a-thon, but more inclusive. No need to focus on technology here -- glue, paper, and whiteboards will do. Do-a-thons can be as small or large as you want them to be, so long as they keep in the spirit of getting stuff done.
 
 **Social media campaigns** are a little different. They consist of sharing deliberate messaging across a social media outlet (Twitter, Facebook, etc.) for a sustained period of time. Benefits of social media campaigns include raising awareness, increasing engagement, and maybe getting a few new followers.
