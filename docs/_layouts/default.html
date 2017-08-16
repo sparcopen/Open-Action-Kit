@@ -15,6 +15,9 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
+        <a href="https://sparcopen.github.io/Open-Action-Kit/team" class="btn">Home</a>
+      {% endif %}
+      {% if site.show_downloads %}
         <a href="https://goo.gl/forms/WlcYQOFZL1KJ2xeo1" class="btn">Monthly Resources</a>
       {% endif %}
       {% if site.show_downloads %}
@@ -25,9 +28,6 @@
       {% endif %}
       {% if site.show_downloads %}
         <a href="https://sparcopen.github.io/Open-Action-Kit/team" class="btn">Organizing Team</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="https://sparcopen.github.io/Open-Action-Kit/team" class="btn">Home</a>
       {% endif %}
     </section>
 
