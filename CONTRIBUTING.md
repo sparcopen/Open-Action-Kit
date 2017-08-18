@@ -34,7 +34,7 @@ The Open Action Toolkit includes monthly communications and resources for advanc
 
 #### :star: Feedback Form
 
-Finally, you can also use **[this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1)** share your ideas and receive updates about the project.  
+You can use **[this feedback form](https://goo.gl/forms/WlcYQOFZL1KJ2xeo1)** share your ideas and receive updates about the project.  
 
 #### :star: Issues
 
