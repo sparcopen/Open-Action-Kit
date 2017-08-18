@@ -28,10 +28,10 @@ Want to grab, remix, or redistribute the monthly communications and resources we
 
 :star: **Meeting Notes**
 
-The [organizing team](https://sparcopen.github.io/Open-Action-Kit/team) meets bi-weekly.  All of our meeting notes are located in the **meeting_note** folder in our repository's root directory.
+The [**organizing team**](https://sparcopen.github.io/Open-Action-Kit/team) meets bi-weekly.  All of our meeting notes are located in the **meeting_note** folder in our repository's root directory.
 
 ### Code of Conduct:
-This project and everyone participating in it is governed by the [OpenCon Code of Conduct](https://github.com/sparcopen/opencon/blob/master/CODE_OF_CONDUCT.MD). By participating, you are expected to uphold this code.  
+This project and everyone participating in it is governed by the [**OpenCon Code of Conduct**](https://github.com/sparcopen/opencon/blob/master/CODE_OF_CONDUCT.MD). By participating, you are expected to uphold this code.  
 
 ### Contributing:
 The Open Action Kit is a community driven project and we want to know about your experience, ideas for advancing openness, and the resources you're using in your work!:fireworks:
