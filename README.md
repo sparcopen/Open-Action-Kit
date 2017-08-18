@@ -1,5 +1,5 @@
 ## Take Action for Open:  An Action Kit for Participating in OA Week 2017
-:fireworks::cat::star::heart::sun:
+:fireworks:😻 :heart_eyes_cat::star::heart::sparkling_heart:
 
 The Open Action Kit is a set of monthly resources designed to help you partipcate in OA Week 2017 and demonstrate all the ways that Open is making a difference!
 
