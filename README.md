@@ -34,6 +34,9 @@ The [organizing team](https://sparcopen.github.io/Open-Action-Kit/team) meets bi
 This project and everyone participating in it is governed by the [OpenCon Code of Conduct](https://github.com/sparcopen/opencon/blob/master/CODE_OF_CONDUCT.MD). By participating, you are expected to uphold this code.  
 
 ### Contribution:
+The Open Action Kit is a community driven project and we want to know about your experience, ideas for advancing openness, and the resources you're using in your work!:fireworks:
+
+Please review the contributing guidelines to get started, thanks for taking the time to contribute! 
 
 ### License: 
 
