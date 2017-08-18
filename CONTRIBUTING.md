@@ -7,7 +7,7 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 ## Table Of Contents
 
 #### [Code of Content](#code-of-conduct)
-#### [I don't want to read this whole thing, I just have a question!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+#### [I don't want to read this whole thing, I just have a question or want to show you something awesome!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question-or-want-to-show-you-something-awesome)
 #### [How Can I Contribute?](#how-can-i-contribute)
    * Issues
    * Pull Requests
@@ -17,7 +17,7 @@ The following is a set of guidelines for contributing to the Open Action Kit. Th
 
 This project and everyone participating in it is governed by the [OpenCon Code of Conduct](https://github.com/sparcopen/opencon/blob/master/CODE_OF_CONDUCT.MD). By participating, you are expected to uphold this code.  
 
-## I don't want to read this whole thing I just have a question!
+## I don't want to read this whole thing I just have a question or want to show you something awesome!
 
 [You can email anyone on the Open Action Kit organizing team with your question](https://sparcopen.github.io/Open-Action-Kit/team) or [submitt an issue](https://github.com/sparcopen/Open-Action-Kit/issues/new).  Either way, we'll get back to you as soon as possible. :whale::pizza::soon: 
 
