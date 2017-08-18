@@ -3,7 +3,9 @@
 
 The Open Action Kit is a set of monthly resources designed to help you partipcate in OA Week 2017 and demonstrate all the ways that Open is making a difference!
 
-**Does the prospect of organizing something for OA Week fill you with deep seated terror of even low lying anxiety?**  Never fear, we're compiling a bunch of resources and tooks to help everyone, from novices to veterans!  We're here to help you get inspired, connect with each other, make a plan, run a successful action, and tell the story of your success.  Sound good, we thought so too.
+**Does the prospect of organizing something for OA Week fill you with deep seated terror of even low lying anxiety?**  
+
+Never fear, we're compiling a bunch of resources and tooks to help everyone, from novices to veterans!  We're here to help you get inspired, connect with each other, make a plan, run a successful action, and tell the story of your success.  Sound good, we thought so too.
 
 **The toolkit will include monthly communications and resources that address the following themes:**  
 
