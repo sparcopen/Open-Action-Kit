@@ -26,6 +26,10 @@ Edits are encouraged!  All of the website content is located in the [**docs**](h
 
 Want to grab, remix, or redistribute the monthly communications and resources we're compling for this project?  Head on over to the [**monthly_deliverables**](https://github.com/sparcopen/Open-Action-Kit/tree/master/monthly_deliverables) folder in the root directly.
 
+OR
+
+[![DOI](https://zenodo.org/badge/89224697.svg)](https://zenodo.org/badge/latestdoi/89224697)
+
 :star: **Meeting Notes**
 
 The [**organizing team**](https://sparcopen.github.io/Open-Action-Kit/team) meets bi-weekly.  All of our meeting notes are located in the [**meeting_notes**](https://github.com/sparcopen/Open-Action-Kit/tree/master/meeting_notes) folder in our repository's root directory.
