@@ -8,7 +8,7 @@ Recruit authors/interviewees for "Show and Tell" posts | Blog posts | Chealsye |
 [Create talking points for talking to administration or representatives](https://docs.google.com/document/d/12gFGmSlJlm_L2U_9wSKu0-P4Asc_7OQB8hlIInHXFzY/edit) | Planning Docs + Assessment | Heather | 8/25/17 |
 [Create quiz for persona + action match](https://docs.google.com/document/d/12gFGmSlJlm_L2U_9wSKu0-P4Asc_7OQB8hlIInHXFzY/edit) | Quiz, Planning docs | Camille | 8/11/17 | Final Stages |
 Finalize personas and action categories | Quiz | N/A | Complete | Yes | Released 
-[4 Activity Type Checklist](https://docs.google.com/document/d/16PM1MQ32BgmcQ1jLiA5b1bq7gN3-RXiGi-vMFV5pV28/edit?usp=sharing) | Planning Docs | Emma, Camille | 8/4/17 |Almost There | |
+[4 Activity Type Checklist](https://docs.google.com/document/d/16PM1MQ32BgmcQ1jLiA5b1bq7gN3-RXiGi-vMFV5pV28/edit?usp=sharing) | Planning Docs | Emma, Camille | 8/4/17 |TODAY| |
 Promotion Calendar | Planning Docs | Heather | 8/18/17 | |
 Timeline Infographic | Planning Docs | Camille | 8/4/17 | Yes |
 
