@@ -5,7 +5,7 @@ First, take the [Open Action Kit Quiz](https://sparcopen.github.io/Open-Action-K
 
 Already got an idea and ready to get started?  Great!  We've created a **[set of checklists](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM)** to help you identify next steps, and complete those little and big to-do items.  
 
-![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/Awareness%20Activity%20Checklist%20(1).png?raw=true)
+![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/awarenessthumb.png?raw=true)
 
 Whether you're planing a **awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!**
 
