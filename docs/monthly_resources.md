@@ -19,6 +19,10 @@ Finally, in the months ahead we'll be helping you build a plan for measuring the
 ![Open Action Kit Timline](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/timline.png?raw=true)
 
 You can download and contribute to all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).  
+--------------------
+
+The **Open Action Kit** is supported by  ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/tiny_sparc.png?raw=true)
+
 
 
 
