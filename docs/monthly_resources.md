@@ -7,7 +7,7 @@ Already got an idea and ready to get started?  Great!  We've created a **[set of
 
 ![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/awarenessthumb.png?raw=true)
 
-Whether you're planing a **awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!**
+Whether you're planing a **awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!**  You can download the checklists and all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).
 
 
 
