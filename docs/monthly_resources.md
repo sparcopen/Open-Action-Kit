@@ -15,7 +15,7 @@ A couple more things to tell you about.  It's a lot of work to find and create r
 ### Find inspiration in this, or add the great work you've created and used!
 Finally, in the months ahead we'll be helping you build a plan for measuring the impact of your OA Week action, telling the story of your success, and translating that into your plans for next year.  To help you with that big picture, we've built a [timeline of important benchmarks](https://drive.google.com/drive/folders/0B3LrgRFGBovxSV95ZEcySHpSOTA).  
 ### It will help you plan International Open Access Week initiatives months in advance to increase engagement!
-![Open Action Kit Timline](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/OpenAccessWeekTimeline%20(1).png?raw=true)
+![Open Action Kit Timline](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/timline.png?raw=true)
 
 You can download and contribute to all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).  
 
