@@ -7,7 +7,16 @@ Already got an idea and ready to get started?  Great!  We've created a **[set of
 
 ![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/awarenessthumb.png?raw=true)
 
-Whether you're planing a **awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!**  You can download the checklists and all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).
+### Whether you're planing for **awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!**  
+You can download the checklists and all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).
+
+A couple more things to tell you about.  It's a lot of work to find and create resources to help with your action, so we started compiling a [list of the brochures, films, speaker lists, and other awesome stuff we use to take promote Open Access, Open Data, and Open Education](https://docs.google.com/spreadsheets/d/10WoBOn1HLqyqw2cj1vI7_xgeU5wMI-7bjdfU62DxHDw/edit#gid=0).  
+
+### Find inspiration in this, or add the great work you've created and used!
+
+
+
+
 
 
 
