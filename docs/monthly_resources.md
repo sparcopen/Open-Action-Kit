@@ -14,6 +14,12 @@ A couple more things to tell you about.  It's a lot of work to find and create r
 
 ### Find inspiration in this, or add the great work you've created and used!
 
+Finally, in the months ahead we'll be helping you build a plan for measuring the impact of your OA Week action, telling the story of your success, and translating that into your plans for next year.  To help you with that big picture view, 
+
+we want to help you Benchmarks for planning international oa week initatives months in advance to increase engagment. 
+
+https://drive.google.com/drive/folders/0B3LrgRFGBovxSV95ZEcySHpSOTA
+
 
 
 
