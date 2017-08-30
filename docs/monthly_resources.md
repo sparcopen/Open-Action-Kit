@@ -3,7 +3,7 @@ Wow, it's nearly September!  Have you decided how you'll be taking action for Op
 ### Let's get started!
 First, take the [Open Action Kit Quiz](https://sparcopen.github.io/Open-Action-Kit/quiz).  It will **suggest actions and tools** based on your goals, advoacy experience, and resources.  It only takes a couple minutes, and it's kind of fun.
 
-Do you already have an idea and are you ready to get started?  Great!  We've created a **[set of checklists](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM)** to help you identify next steps, and complete those little and big to-do items.  
+Do you already have an idea? Ready to get started?  Great!  We've created a **[set of checklists](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM)** to help you identify next steps, and complete those little and big to-do items.  
 
 ![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/awarenessthumb.png?raw=true)
 
