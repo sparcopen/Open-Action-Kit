@@ -9,7 +9,7 @@ Do you already have an idea? Ready to get started?  Great!  We've created a **[s
 ### Whether you're planing for awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!
 You can download the checklists and all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).
 ### A couple more things to tell you about!
-It's a lot of work to find and create resources to help with your action, so we started compiling a [list of the brochures, films, speaker lists, and other awesome stuff we use to take promote Open Access, Open Data, and Open Education](https://docs.google.com/spreadsheets/d/10WoBOn1HLqyqw2cj1vI7_xgeU5wMI-7bjdfU62DxHDw/edit#gid=0).  
+It's a lot of work to find and create resources to help with your action, so we started compiling a [list of the brochures, films, speaker lists, and other awesome stuff we use to promote Open Access, Open Data, and Open Education](https://docs.google.com/spreadsheets/d/10WoBOn1HLqyqw2cj1vI7_xgeU5wMI-7bjdfU62DxHDw/edit#gid=0).  
 ### Find inspiration, or add the great work you've created and used!
 Finally, in the months ahead we'll be helping you build a plan for measuring the impact of your OA Week action, telling the story of your success, and translating that into your plans for next year.  To help you with that big picture, we've built a [timeline of important benchmarks](https://drive.google.com/drive/folders/0B3LrgRFGBovxSV95ZEcySHpSOTA).  It will help you plan International Open Access Week initiatives months in advance to increase engagement!
 
