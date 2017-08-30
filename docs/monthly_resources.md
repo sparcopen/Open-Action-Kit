@@ -16,9 +16,9 @@ Finally, in the months ahead we'll be helping you build a plan for measuring the
 ![Open Action Kit Timline](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/timline.png?raw=true)
 
 ### You can download and contribute to all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).  
-The Open Action Kit quiz, checklists, and timeline were desiged by [Camille Thomas, Texas Tech University Libraries](https://twitter.com/afrofuturistlib).  
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+The Open Action Kit quiz, checklists, and timeline were desiged by [Camille Thomas, Texas Tech University Libraries](https://twitter.com/afrofuturistlib).  This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 --------------------
 
