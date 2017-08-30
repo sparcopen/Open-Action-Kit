@@ -28,7 +28,7 @@ Want to grab, remix, or redistribute the monthly communications and resources we
 
 OR
 
-[![DOI](https://zenodo.org/badge/89224697.svg)](https://zenodo.org/badge/latestdoi/89224697)
+[You can also find everything in our Community Resources Google Drive folder.](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE)
 
 :star: **Meeting Notes**
 
