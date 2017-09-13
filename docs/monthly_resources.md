@@ -20,11 +20,12 @@ Finally, in the months ahead we'll be helping you build a plan for measuring the
 
 The Open Action Kit quiz, checklists, and timeline were desiged by [Camille Thomas, Texas Tech University Libraries](https://twitter.com/afrofuturistlib).  
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
 --------------------
 
 The **Open Action Kit** is supported by  ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/tiny_sparc.png?raw=true)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 
 
