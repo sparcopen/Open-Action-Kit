@@ -15,7 +15,7 @@ Never fear, the **Open Action Kit** is here! We’ve compiled a bunch of resourc
 * Telling the story of your efforts and successes
 
 We recognize that actions and resources are going to look different to everyone. This is why our resources will speak to ideas and goals across the spectrum of experience, whether you’re a **[New Natalia, Amped Up Amal, Growing Gene, or Connected Cate](https://sparcopen.github.io/Open-Action-Kit/personas).** We’ve got a little something for everyone, so don’t you worry.
-### [We've posted our resources for August!](https://sparcopen.github.io/Open-Action-Kit/monthly_resources) Take a look to get those creative juices flowing and explore ways you can mobilize action and maximize engagement on your campus.
+### [We've posted our first set of resources!](https://sparcopen.github.io/Open-Action-Kit/monthly_resources) Take a look to get those creative juices flowing and explore ways you can mobilize action and maximize engagement on your campus.
 Let us know if you have any questions, comments, suggested resources, stories, good jokes, etc. **We wanna hear about all the cool stuff we know you’ve been up to (either currently or previously), so shrug off that modesty and hype yo self!** Share your comments, questions, and stories of success with us by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdDKxixKSASG6ByPRuySKk0dzEGstgR1fSSYhoHTEu2VSztXw/viewform?usp=sf_link).
 
 --------------------
