@@ -43,10 +43,4 @@ The Open Action Kit is a community driven project and we want to know about your
 Please review the [**contributing guidelines**](https://github.com/sparcopen/Open-Action-Kit/blob/master/CONTRIBUTING.md) to get started, and thanks for taking the time to contribute! 
 
 ### License: 
-Except where otherwise noted, the Open Action Kit and this repository is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-
-
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Except where otherwise notes, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
