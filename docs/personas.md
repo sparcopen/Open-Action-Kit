@@ -32,3 +32,10 @@ Cate works in a city with multiple institutions and organizations interested in 
 **Needs**: 10-12 volunteers with experience in data manipulation; 5 volunteers with basic knowledge of federal data repositories,  large room for up to 50 participants, materials for advertising, platform to share results, strategy for follow-up  
 **Experience**: High  
 **Institutional Environment**: Multiple institutions of various sizes (mostly liberal arts colleges), libraries with strong focus on technology 
+
+--------------------
+
+The **Open Action Kit** is supported by  ![SPARC logo](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/tiny_sparc.png?raw=true)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Except where otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
