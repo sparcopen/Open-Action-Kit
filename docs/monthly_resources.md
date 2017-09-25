@@ -7,7 +7,7 @@ Do you already have an idea? Ready to get started?  Great!  We've created a **[s
 
 ![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/awarenessthumb.png?raw=true)
 
-We've also created some **[talking points](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM) to help you start the Open Access conversation** on your campus, and ​an [environmental mapping exercise](https://drive.google.com/open?id=0B3LrgRFGBovxa0ZaNVR4eUV0T0E) so you can **connect​ ​your open actions ​with​ ​your​ ​organization’s​ ​priorities and potential partners.**  
+We've also created some [talking points](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM) to help you **start the Open Access conversation** on your campus, and ​an [environmental mapping exercise](https://drive.google.com/open?id=0B3LrgRFGBovxa0ZaNVR4eUV0T0E) so you can **connect​ ​your open actions ​with​ ​your​ ​organization’s​ ​priorities and potential partners.**  
 
 ### Whether you're planing for awareness outreach, an on-campus event, an advocacy campaign, or a virtual activity, we've got you covered!
 You can download the checklists and all of the resources we've curated for you this month in the [Open Action Kit's August Community Resources Google Drive folder](https://drive.google.com/drive/folders/0B3LrgRFGBovxOGhxOE1VZnRrQkE).
