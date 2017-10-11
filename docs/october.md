@@ -8,12 +8,10 @@ Campus partnerships can really **level-up the impact of your advocacy work**, so
 
 ![Partners and Promotion](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/oakit_partners_and_promotion.png?raw=true)
 
-
-Want ideas for conversation starters, take a look at the [talking points](https://drive.google.com/drive/folders/0B3LrgRFGBovxY2NvQlZ4MFNXc2s) we released last month.  
 ### While we’re on the topic of conversation starters, we wanted to have some real talk.
 Listen, we know that **being an Open champion can be tough stuff** sometimes, especially during times of heightened advocacy and awareness. This OA Week, we want to encourage you to **take time for yourself and to appreciate all your successes**, no matter their size. We suggest pulling a Tom Haverford/Donna Meagle and treating yo self. Turn down that meeting! Buy a fancy lunch! Do what you gotta do to ensure that you feel good.
 ### And you should feel good, because you’re all sorts of awesome.
-Don’t forget, you can **use the #OAweek hashtag** to promote your action and connect with other open champions!  Stay for more resources this month and in November that will help you evaluate and communicate your OA Week successes.
+Don’t forget, you can use the **#OAweek** hashtag to promote your action and connect with other open champions!  Stay for more resources this month and in November that will help you evaluate and communicate your OA Week successes.
 
 Got questions? Suggestions for content or other resources? Don’t hesitate to connect with a member of the [Open Action Kit team](https://sparcopen.github.io/Open-Action-Kit/team).
 
