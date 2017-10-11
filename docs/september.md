@@ -5,7 +5,7 @@ First, take the [Open Action Kit Quiz](https://sparcopen.github.io/Open-Action-K
 
 Do you already have an idea? Ready to get started?  Great!  We've created a **[set of checklists](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM)** to help you identify next steps, and complete those little and big to-do items.  
 
-![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/awarenessthumb.png?raw=true)
+![Awareness Checklist](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/oakit_partners_and_promotion.png?raw=true)
 
 We've also created some [talking points](https://drive.google.com/drive/folders/0B3LrgRFGBovxeUtSbWtrSkxjeGM) to help you **start the Open Access conversation** on your campus, and ​an [environmental mapping exercise](https://drive.google.com/open?id=0B3LrgRFGBovxa0ZaNVR4eUV0T0E) so you can **connect​ ​your open actions ​with​ ​your​ ​organization’s​ ​priorities and potential partners.**  
 
