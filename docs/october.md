@@ -3,7 +3,7 @@ Open Access Week is almost here, what do you have planned?  You’re probably fo
 ### We’ve pulled together a few reminders to get you to the finish line!
 Have you seen the **AMAZING [OA Week posters](http://www.openaccessweek.org/page/englishhigh-resolution-1)** Lorraine Chuen created on behalf of SPARC?  You can download the editable design files to customize the posters for your social media campaign, event, or outreach efforts.  
 
-Campus partnerships can really **level-up the impact of your advocacy work**, so we’ve collected some [ideas for building your community and extending your reach](https://drive.google.com/file/d/0B3LrgRFGBovxSEJONjJ5Y0xjTnM/view?usp=sharing).  
+Campus partnerships can really **level-up the impact of your advocacy work**, so we’ve collected some [ideas for building your community and extending your reach](https://drive.google.com/file/d/0B3LrgRFGBovxLVVWUkdPVjhDeFU/view?usp=sharing).  
 
 
 ![Partners and Promotion](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/oakit_partners_and_promotion.png?raw=true)
