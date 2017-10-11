@@ -1,9 +1,9 @@
-## [September](https://sparcopen.github.io/Open-Action-Kit/september)
-Have you decided how you'll be taking action for Open Acess Week?  If not, no worries!  Some of us are just getting started too.  Check out the materials we've compiled to help you **choose your action and create a plan**.
-## [October](https://sparcopen.github.io/Open-Action-Kit/october)
-Open Access Week is almost here, what do you have planned?  We've pulled together a list of resources and reminders to get you to the finish line!
-## November
-Stay for more resources and events that will help you evaluate and communicate your OA Week successes.
+## [September Resources](https://sparcopen.github.io/Open-Action-Kit/september)
+Check out the materials we compiled to help you **choose your action and create a plan** for Open Access Week.
+## [October Resources](https://sparcopen.github.io/Open-Action-Kit/october)
+Being an Open champion can be tough stuff, especially during times of heightened advocacy and awareness. We've pulled together a list of resources and reminders to get you to the finish line!
+## November (Stay Tuned)
+Get ready for resources and events that will help you evaluate and communicate your OA Week successes.
 
 Got questions? Suggestions for content or other resources? Don’t hesitate to connect with a member of the [Open Action Kit team](https://sparcopen.github.io/Open-Action-Kit/team).
 
