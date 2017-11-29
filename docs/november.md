@@ -11,9 +11,7 @@ Speaking of storytelling, **next month we’re holding a webinar on crafting a p
 
 Finally, we know it helps to see how others are doing this, so we've started collecting samples of different kins of event and outreach reports.  [Read and borrow from them to tell your own story!](https://github.com/sparcopen/Open-Action-Kit/issues/23).  You can also share your own reporting examples and strategies.  Just comment on the Github issue linked above.  
 
-Don't forget, joint us on **December 6th at 3 PM ET** to learn more about crafting your open advocate professional narrative. See you then!
-
-
+### Don't forget, joint us on December 6th at 3 PM ET to learn more about crafting your open advocate professional narrative. See you then!
 Got questions? Suggestions for content or other resources? Don’t hesitate to connect with a member of the [Open Action Kit team](https://sparcopen.github.io/Open-Action-Kit/team).
 
 --------------------
