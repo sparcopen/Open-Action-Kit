@@ -2,8 +2,8 @@
 Check out the materials we collected to help you **choose your action and create a plan** for Open Access Week.
 ## [October](https://sparcopen.github.io/Open-Action-Kit/october)
 Being an Open champion can be tough stuff, especially during times of heightened advocacy and awareness. These **resources and reminders will help get you to the finish line!**
-## November (Stay Tuned)
-Get ready for resources and events that will help you evaluate and communicate your OA Week successes.
+## Decemmber
+Okay, hopefully you've had time to relax and relfect on your great work!  These resources will help you **evaluate and communicate your OA Week successes.**
 
 Got questions? Suggestions for content or other resources? Don’t hesitate to connect with a member of the [Open Action Kit team](https://sparcopen.github.io/Open-Action-Kit/team).
 
