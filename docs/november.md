@@ -1,4 +1,4 @@
-## December
+## November
 Open Access Week is almost here, what do you have planned?  You’re probably focused on working through your [checklist](https://drive.google.com/drive/folders/0B3LrgRFGBovxRWFXZzNyNTJNWjQ), last minute outreach, or maybe you’re just starting to think about how to celebrate and raise awareness for Open on your campus.  
 ### We’ve pulled together a few reminders to get you to the finish line!
 Have you seen the **AMAZING [OA Week posters](http://www.openaccessweek.org/page/englishhigh-resolution-1)** Lorraine Chuen created on behalf of SPARC?  You can download the editable design files to customize the posters for your social media campaign, event, or outreach efforts.  
