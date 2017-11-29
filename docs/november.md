@@ -3,7 +3,7 @@ Can you believe that OA Week is over? Make sure to look back on your experience 
 
 Plus, the work you do during Open Access Week is part of your professional identity and accomplishments.  It's important to communicate this expertise and the impact of your work in CV, interview situations, and other professional contexts.  
 ### We've pulled together some resources to help you tell your story!
-Unsure of what, where, or how to report your OA Week activites?  Check out this document for tips and resources. 
+Unsure of what, where, or how to report your OA Week activites?  Check out this [document for tips and resources.](https://drive.google.com/open?id=1UqcRlRFSMQ220jo4caAaKzL9Gon9g9E3)
 
 ![OA Kit Reporting Tips](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/Reporting_November.png?raw=true)
 
