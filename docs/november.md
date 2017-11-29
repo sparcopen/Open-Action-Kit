@@ -7,7 +7,7 @@ Plus, the work you do during Open Access Week is part of your professional ident
 
 Unsure of what, where, or how to report your OA Week activites?  Check out this document for tips and resources. 
 
-![](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/November_Reporting_Guide.png?raw=true)
+![](https://github.com/sparcopen/Open-Action-Kit/blob/master/docs/_images/Reporting_November.png?raw=true)
 
 Speaking of storytelling, next month we’re holding a webinar on crafting a professional competency narrative around your OA Week activities. We’ll chat about how to build straightforward explanations of the impact of your work and how to translate it into bite-sized chunks for a CV or interview situation. Mark your calendars for Wednesday, December 6th at 3 PM ET. 
 
