@@ -9,7 +9,7 @@ Unsure of what, where, or how to report your OA Week activites?  Check out this 
 
 Speaking of storytelling, [we’re holding a webinar on crafting a professional competency narrative](https://sparcopen.org/event/open-action-week-action-webcast-getting-professional-credit-oa-week-work/) around your OA Week activities. We’ll chat about how to build straightforward explanations of the impact of your work and how to translate it into bite-sized chunks for a CV or interview situation. **Mark your calendars for Wednesday, December 6th at 3 PM ET.**
 
-Finally, we know it helps to see how others are doing this, so we've started collecting samples of different kinds of event and outreach reports.  [Read and borrow from them to tell your own story!](https://github.com/sparcopen/Open-Action-Kit/issues/23).  You can also share your own reporting examples and strategies.  Just comment on the Github issue linked above.  
+Finally, we know it helps to see how others are doing this, so we've started collecting samples of different kinds of event and outreach reports.  [Read and borrow from them to tell your own story!](https://github.com/sparcopen/Open-Action-Kit/issues/23)  You can also share your own reporting examples and strategies.  Just comment on the Github issue linked above.  
 ### [Don't forget to join us on December 6th at 3 PM ET to learn more about crafting your open advocate professional narrative. See you then!](https://sparcopen.org/event/open-action-week-action-webcast-getting-professional-credit-oa-week-work/)
 Got questions? Suggestions for content or other resources? Don’t hesitate to connect with a member of the [Open Action Kit team](https://sparcopen.github.io/Open-Action-Kit/team).
 
